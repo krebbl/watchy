@@ -1,0 +1,20 @@
+{
+    "name": "watchy",
+    "version": "0.0.1",
+    "description": "A directory file watcher which keeps track of all file changes in a directory.",
+    "main": "watchy.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "file",
+        "watcher",
+        "diff",
+        "monitor"
+    ],
+    "dependencies": {
+        "watch": "latest"
+    },
+    "author": "krebbl",
+    "license": "MIT"
+}
